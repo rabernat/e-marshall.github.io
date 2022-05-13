@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   <!-- {file: "emma.pdf", title: "CV", icon:home}-->
-  <!-- {title: "linkedin", url: "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"}-->
+  <!-- {title: "research"}-->
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
