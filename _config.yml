@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  <!-- {file: "emma.pdf", title: "CV", icon:home}-->
-  <!-- {file: "research.pdf", title: "research"}-->
+  {file: "emma.pdf", title: "CV", icon:home}
+  {file: "research.pdf", title: "research"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
