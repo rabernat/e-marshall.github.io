@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  <!--{title: "CV", file: "emma.pdf", icon: home}-->
-  <!--{title: "Research", file: "research.pdf"}-->
-  <!--{title: "About me", file: "about.pdf"}-->
+  {title: "CV", file: "emma.pdf", icon: home}
+  {title: "Research", file: "research.pdf"}
+  {title: "About me", file: "about.pdf"}
   
   
 
