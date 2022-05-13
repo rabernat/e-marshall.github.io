@@ -1,6 +1,6 @@
 title: "Emma Marshall"
 author: "Emma"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "University of Utah style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,6 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
+  - {title: "About me", file: "about_me.html"}
+  - {title: "Research", file: "research.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
