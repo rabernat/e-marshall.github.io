@@ -1,6 +1,6 @@
 title: "Emma Marshall"
 author: "Emma"
-description: "University of Utah, style=\"color: #f45;\">&lt;3</b>"
+description: "Emma K. Marshall"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,14 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
-  - {title: "About me", file: "about_me.html"}
+  - {file: "README.md", title: "About me" }
   - {title: "Research", file: "research.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "emma.marshall@utuah.edu"}
   - {title: Github, icon: github, url: "https://github.com/e-marshall"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
