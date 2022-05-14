@@ -5,7 +5,7 @@ title: Education
 
 <h3> University of Utah </h3>
 Ph. D. - Geography (expected) <br>
-Advisor: Dr. Summer Rupper, Dr. Rick Forster
+Advisor: Dr. Summer Rupper & Dr. Rick Forster
 
 <h3> University of Utah </h3>
 M.S. - Geography (2021) <br>
