@@ -1,6 +1,6 @@
 title: "Emma Marshall"
 author: "Emma"
-description: "Emma K. Marshall"
+description:
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
