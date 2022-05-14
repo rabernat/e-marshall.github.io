@@ -9,3 +9,4 @@ Thanks for stopping by my page! My name is Emma and I'm a second year PhD studen
 
 Please don't hestitate to reach out if you have any questions about my work or would like to chat! 
 
+![IMG-7021](https://user-images.githubusercontent.com/55526386/168404842-7e50b5dc-26d1-46f9-a368-db6ece960252.jpg){: width="300", height="300", style="float: right;"}
