@@ -14,5 +14,3 @@ Thesis: Examining seasonal glacier surface velocity variability in Nepal, Centra
 B.A. - Environmental Science </br>
 Thesis: Microclimatology and tree growth patterns of the alpine treeline ecotone, Pike’s Peak, Colorado
 
-![image](https://user-images.githubusercontent.com/55526386/168404503-7d6d9896-7df3-4f02-b668-4b62e67e4058.png = 200x200)
-
