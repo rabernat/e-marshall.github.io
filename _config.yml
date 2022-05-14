@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "README.md", title: "About me" }
   - {title: "Research", file: "research.html"}
+  - {title: "Projects", ffile: "projects.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "emma.marshall@utuah.edu"}
