@@ -4,7 +4,7 @@ title: Education
 ---
 
 <h3> University of Utah </h3>
-Ph. D. - Geography (expected) <br>
+Ph. D. - Geography (in progress) <br>
 Advisor: Dr. Summer Rupper & Dr. Rick Forster
 
 <h3> University of Utah </h3>
