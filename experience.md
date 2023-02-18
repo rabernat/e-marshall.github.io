@@ -1,5 +1,4 @@
 
-# Experience
 
 ## 2022 summer internship at the National Center for Atmospheric Research (NCAR)
 

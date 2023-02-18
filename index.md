@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-![IMG-7021](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width="250", height="250", float: right;}
+![IMG-7021](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width="150", height="150", float: right;}
 
 # About me 
 
@@ -10,5 +10,5 @@ Thanks for stopping by my page! My name is Emma Marshall. I'm a Ph.D. student in
 
 When I'm not working, I enjoy skiing, mountain biking and hiking with my dog. You can also find me knitting and exploring Salt Lake City by bike in my free time. 
 
-Please don't hestitate to reach out if you have any questions about my work or would like to chat! 
+Please feel free to reach out if you have any questions abotu my work or would like to chat! 
 
