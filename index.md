@@ -5,10 +5,10 @@ title: "Home"
 
 # About me 
 
-Thanks for stopping by my page! 
 
 ![img](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width = "200" height = "200" style="float: right;margin-right: 30px;margin-top: 7px;"}
 
+Thanks for stopping by my page! 
 
 My name is Emma Marshall. I'm a Ph.D. student in the [Cryosphere Lab](https://github.com/UofU-Cryosphere) within the [Geography Department](https://geog.utah.edu/) at the University of Utah. My research uses remote sensing data to examine recent glacier variability in High Mountain Asia. I'm particularly interested in better understanding the behavior of lake-terminating glaciers and their importance to glacier mass balance projections for the region. 
 
