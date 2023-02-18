@@ -6,7 +6,7 @@ title: "Home"
 # About me 
 
 
-![img](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width = "200" height = "200" style="float: right;margin-right: 30px;margin-top: 7px;"}
+![img](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width="200" height="200" style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 Thanks for stopping by my page! 
 
