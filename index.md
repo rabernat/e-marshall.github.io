@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-![IMG-7021](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width="150", height="150", float: right;}
+<img src="https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg" alight = "right" width = "200px" /> 
 
 # About me 
 
