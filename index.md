@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-![IMG-7021](https://user-images.githubusercontent.com/55526386/168404842-7e50b5dc-26d1-46f9-a368-db6ece960252.jpg){: width="250", height="250", style="float: right;"}
+![IMG-7021](https://raw.githubusercontent.com/e-marshall/e-marshall.github.io/master/assets/emma_kena.jpg){: width="250", height="250", align = "right"}
 
 # About me 
 
