@@ -9,7 +9,7 @@ title: Education
 - Advanced active remote sensing (Spring 2020)
 - Climate dynamcis (Fall 2020)
 - Geovisualization (Spring 2021)
-- Seminar on imaaging spectroscopy (Fall 2021)
+- Seminar on imaging spectroscopy (Fall 2021)
 - Seminar on snow science field methods (Spring 2022)
 - Advanced optical remote sensing (Fall 2022)
 
