@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     # - {title: "Helpful resources", file: "helpful_resources"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "emma.marshall@utuah.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:emma.marshall@utuah.edu"}
   - {title: Github, icon: github, url: "https://github.com/e-marshall"}
   - {title: Twitter, icon: twitter, url: "/feed.xml"}
 
